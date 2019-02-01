@@ -15,7 +15,11 @@ This repo was created to demostrate an issue importing from a native android mod
 
 In RNApp/App.js
 
-importing the index file from `rn-module` (`import RNModule from 'react-native-module';`) does not work and there is a haste module map error found.
+importing the index file from `rn-module`
+```js
+import RNModule from 'react-native-module';`
+```
+does not work and there is a haste module map error found.
 
 `HOWEVER` using RNModule from NativeModules does work.
 
