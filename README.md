@@ -2,7 +2,7 @@
 
 This repo was created to demostrate an issue importing from a native android module (ios might be the same just untested) from a standard react native project.
 
-`RNApp` created using `react-native init` (react-native-cli version 2.0.1)
+`RNApp` was created using `react-native init` (react-native-cli version 2.0.1)
 `rn-module` created using `react-native-create-library` https://www.npmjs.com/package/react-native-create-library (version 3.1.2)
 
 ## Steps to install:
