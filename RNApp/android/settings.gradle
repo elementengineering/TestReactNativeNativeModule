@@ -1,0 +1,5 @@
+rootProject.name = 'RNApp'
+include ':react-native-module'
+project(':react-native-module').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-module/android')
+
+include ':app'
