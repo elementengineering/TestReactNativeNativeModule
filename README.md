@@ -17,7 +17,7 @@ In RNApp/App.js
 
 importing the index file from `rn-module`
 ```js
-import RNModule from 'react-native-module';`
+import RNModule from 'react-native-module';
 ```
 does not work and there is a haste module map error found.
 
