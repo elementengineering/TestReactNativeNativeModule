@@ -17,7 +17,7 @@ public class RNModuleModule extends ReactContextBaseJavaModule {
 
   @ReactMethod
   public void helloWorld(Callback callback) {
-  	callback.invoke("Hello World From RNModule");
+  	callback.invoke("Hello World From RNModule Android");
   }
 
   @Override

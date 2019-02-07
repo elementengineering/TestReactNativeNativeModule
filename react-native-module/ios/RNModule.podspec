@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RNModule
                    DESC
-  s.homepage     = ""
+  s.homepage     = "TBA"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }
@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
 
-  s.dependency "React"
+  # s.dependency "React"
   #s.dependency "others"
 
 end
