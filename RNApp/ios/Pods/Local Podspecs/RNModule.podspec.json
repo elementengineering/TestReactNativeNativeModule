@@ -1,0 +1,20 @@
+{
+  "name": "RNModule",
+  "version": "1.0.0",
+  "summary": "RNModule",
+  "description": "RNModule",
+  "homepage": "TBA",
+  "license": "MIT",
+  "authors": {
+    "author": "author@domain.cn"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/author/RNModule.git",
+    "tag": "master"
+  },
+  "source_files": "RNModule/**/*.{h,m}",
+  "requires_arc": true
+}

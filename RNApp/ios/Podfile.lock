@@ -1,0 +1,16 @@
+PODS:
+  - RNModule (1.0.0)
+
+DEPENDENCIES:
+  - RNModule (from `../node_modules/react-native-module/ios`)
+
+EXTERNAL SOURCES:
+  RNModule:
+    :path: "../node_modules/react-native-module/ios"
+
+SPEC CHECKSUMS:
+  RNModule: 711a76dc35adcfc943cfa7c505f9d4b3f8f13d47
+
+PODFILE CHECKSUM: 95bfb18b84968a436d0d16bb5cc6c6e3b93e67a7
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,9 @@
+platform :ios, '10.0'
+use_frameworks!
+
+target 'RNApp' do
+  # Add your Pods here
+
+  pod 'RNModule', :path => '../node_modules/react-native-module/ios'
+  # Do not delete
+end

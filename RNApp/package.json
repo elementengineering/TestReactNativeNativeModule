@@ -5,12 +5,13 @@
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "jest",
-    "android": "react-native run-android"
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
   },
   "dependencies": {
     "react": "16.6.3",
     "react-native": "^0.58.3",
-    "react-native-module": "file:../rn-module"
+    "react-native-module": "file:../react-native-module"
   },
   "devDependencies": {
     "babel-core": "7.0.0-bridge.0",
