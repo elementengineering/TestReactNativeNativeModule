@@ -11,10 +11,10 @@ import React, {Component} from 'react';
 import {Button, Platform, StyleSheet, Text, View, NativeModules} from 'react-native';
 
 // Importing here doesn't work
-// import RNModule from 'react-native-module';
+import RNModule from 'react-native-module';
 
 // But this works fine
-const { RNModule } = NativeModules;
+// const { RNModule } = NativeModules;
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
